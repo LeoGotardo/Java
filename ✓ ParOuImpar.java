@@ -1,4 +1,6 @@
-
+/*
+Verifica se o numero Digitado pelo usuario é impar ou par
+*/
 
 import java.util.Scanner;
 
