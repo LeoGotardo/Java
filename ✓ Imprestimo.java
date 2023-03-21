@@ -3,7 +3,7 @@ public class Salario {
    public static void main(String[] args) {
       Scanner salario = new Scanner(System.in);
       System.out.println("Digite o seu salario:");
-      int num = salario.nextInt();
+      double num = salario.nextDouble();
       if (num >= 5*num) {
          System.out.println("OK");
       }
