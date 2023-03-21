@@ -10,7 +10,5 @@ public class Salario {
       else {
          System.out.println("WTF AMIGO VOCE ESTARE LOUCO?");
       }
-
    }
-
 }
